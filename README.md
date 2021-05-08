@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnantVijaySingh
-- 👀 I’m interested in ... Product Mangement
+- 👀 I’m interested in ... Product mangement
 - 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... Productivity and Internet Health products
+- 💞️ I’m looking to collaborate on ... Productivity and Internet health products
 - 📫 How to reach me ... vnuzh8awy@relay.firefox.com
 
 <!---
